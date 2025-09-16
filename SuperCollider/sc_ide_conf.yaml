@@ -4,9 +4,12 @@ IDE:
       documents-dock: ""
       help-dock: ""
       post-dock: ""
-    geometry: AdnQywADAAAAAAAAAAAAAAAAA00AAAFVAAAAAAAAAAAAAAQNAAAEJQAAAAACAAAAB4AAAAAAAAAAAAAAA00AAAFV
-    state: AAAA/wAAAAD9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAGQAbwBjAHUAbQBlAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAF4A////AAAAAQAAAs4AAAEr/AIAAAAC+wAAABIAaABlAGwAcAAtAGQAbwBjAGsBAAAAFAAAAM4AAABMAP////sAAAASAHAAbwBzAHQALQBkAG8AYwBrAQAAAOMAAABcAAAATAD///8AAAB/AAABKwAAAAEAAAACAAAAAQAAAAL8AAAAAA==
+    geometry: AdnQywADAAAAAAAAAAAAAAAAA/kAAAPwAAAAAAAAAAAAAAP5AAAD8AAAAAACAAAAB4AAAAAAAAAAAAAAA/kAAAPw
+    state: AAAA/wAAAAD9AAAAAgAAAAAAAAAAAAAAAPwCAAAAAfsAAAAcAGQAbwBjAHUAbQBlAG4AdABzAC0AZABvAGMAawAAAAAA/////wAAAF4A////AAAAAQAAAXwAAAPG/AIAAAAC+wAAABIAaABlAGwAcAAtAGQAbwBjAGsBAAAAFAAAAzoAAABMAP////sAAAASAHAAbwBzAHQALQBkAG8AYwBrAQAAA08AAACLAAAATAD///8AAAJ9AAADxgAAAAEAAAACAAAAAQAAAAL8AAAAAA==
   postWindow:
     lineWrap: false
   recentDocuments: !QVariantList
-    []
+    - /home/sloth_father/Documents/supercollider/vowely_with_resampling.scd
+    - /home/sloth_father/Documents/supercollider/setup/fx_synthdefs.scd
+    - /home/sloth_father/Documents/supercollider/setup/setup.scd
+    - /home/sloth_father/Documents/supercollider/setup/drum_synthdefs.scd

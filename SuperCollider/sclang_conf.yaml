@@ -1,0 +1,6 @@
+includePaths:
+    -   /home/sloth_father/.local/share/SuperCollider/downloaded-quarks/ddwSnippets
+excludePaths:
+    []
+postInlineWarnings: false
+excludeDefaultPaths: false
