@@ -34,3 +34,4 @@ scnvim.setup({
 })
 
 vim.opt.clipboard = "unnamedplus"
+vim.keymap.set("n", "scs", "<Cmd>: SCNvimStart <CR>", { noremap = true, silent = true })
