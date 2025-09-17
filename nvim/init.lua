@@ -7,7 +7,7 @@ local map_expr = scnvim.map_expr
 scnvim.setup({
   keymaps = {
     ["<M-e>"] = map("editor.send_line", { "i", "n" }),
-    ["<C-e>"] = {
+    ["<C-CR>"] = {
       map("editor.send_block", { "i", "n" }),
       map("editor.send_selection", "x"),
     },
@@ -32,3 +32,5 @@ scnvim.setup({
     },
   },
 })
+
+vim.opt.clipboard = "unnamedplus"
